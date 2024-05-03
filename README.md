@@ -3,6 +3,7 @@
 ## 프로젝트 목표
 - 오르미 친목도모 SNS
 - 각자의 TIL(Today I Learned) 공유
+- hello world
 
 ## 개발환경
 - 깃헙
